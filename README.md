@@ -28,8 +28,6 @@ Earnexx can integrate with multiple Solana projects, supporting reward campaigns
 - **Bullsniperr – Founder & Product Lead**  
 Experienced Web3 content creator, community manager, and marketer. Built and scaled multiple Web3 projects and token-incentive systems.  
 
-*(Add other team members here if available)*  
-
 ## 🗓 Roadmap / Milestones (Next 3–6 Months)
 
 - **Month 1–2:** Complete MVP smart contracts and test on Solana testnet  
