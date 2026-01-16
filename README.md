@@ -54,7 +54,8 @@ Experienced Web3 content creator, community manager, and marketer. Built and sca
 - **Integration:** Earn platform, Solana ecosystem projects  
 
 ## 🔗 Links
-
+-Whitepaper
+https://docs.google.com/document/d/1Y1Jv0nTQ2p0WXK0urWH4Cr19FxEmjJ2qTlJMEMlnZ8Q
 - X profile: [https://x.com/earnexx](https://x.com/earnexx)  
 - Project Doc: [https://docs.google.com/document/d/1xQ1HC-93T-FJodBNeWAMzko7NXEjSNfWeunua9CvSD8/edit?usp=drivesdk]  
 
