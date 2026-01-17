@@ -9,11 +9,11 @@ If you discover a security vulnerability or potential exploit, we encourage resp
 
 Please report security issues privately by contacting:
 
-- **Email:** security@earnexx.xyz  
+- **Email:** earnexx01@gmail.com 
   (temporary contact – will be updated as the project evolves)
 
 If email is unavailable, you may also reach out via:
-- Direct message to the project lead on X (Twitter)
+- Direct message to the project lead on X (twitter) https://x.com/earnexx
 
 ### What to Include
 
