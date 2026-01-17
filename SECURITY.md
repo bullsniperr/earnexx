@@ -8,7 +8,7 @@ Earnexx takes security seriously. If you discover a security vulnerability or po
 
 Report security issues privately by contacting:
 
-- **Email:** bullsniperr@gmail.com  
+- **Email:** earnexx01@gmail.com  
 - **X/Twitter DM:** @Bullsniperr  
 
 Include as much information as possible:
